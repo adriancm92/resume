@@ -1,0 +1,10 @@
+.resume {
+    @apply flex flex-col items-center;
+    width: 800px;
+    padding: 50px 0;
+
+    h1 {
+        @apply text-white text-2xl;
+        margin-top: 20px;
+    }
+}
