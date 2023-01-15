@@ -7,4 +7,18 @@
         @apply text-white text-2xl;
         margin-top: 20px;
     }
+
+    h2 {
+        @apply text-red-500 text-xl
+    }
+
+    p {
+        @apply text-white;
+        margin-top: 10px;
+    }
+
+    h3 {
+        @apply text-white font-bold;
+        margin-top: 20px;
+    }
 }
